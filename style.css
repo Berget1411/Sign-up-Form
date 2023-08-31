@@ -123,3 +123,7 @@ form button:hover {
   text-decoration: none;
   color: #7c97ae;
 }
+
+#already-acc a:hover {
+  color: #96b9d9;
+}
